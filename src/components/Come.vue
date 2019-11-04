@@ -9,7 +9,7 @@
           <b-col>
             <b-row class="paragraphs-row" no-gutters >
               <b-col align-v="bottom" sm="6">
-                <img class="full" src="/static/images/come/map.jpg" alt="carte"/>
+                <img class="full" src="/static/images/come/map-arras.jpg" alt="carte"/>
               </b-col>
               <b-col class="text" align-v="bottom" sm="6">
 
@@ -32,47 +32,13 @@
                 <p>
                   N'hésitez pas à venir nous saluer, <strong>nous vendons en direct</strong> !
                   <br/>
-                  Vous pouvez entrer avec votre voiture, vélo, longboard, ...
+                  La brasserie est accessible en voiture, vélo, longboard, ...
                 </p>
 
               </b-col>
 
               <b-col class="text" align-v="bottom" sm="6">
-                <h2>Comment venir ?</h2>
-
-                <p>
-                  Depuis le <strong>boulevard de Belfort</strong>, porte de douai dans votre dos, prenez <strong>à droite</strong> juste avant le parc vers la rue <strong>Charles Delesalle</strong>.
-                </p>
-
-              </b-col>
-              <b-col align-v="bottom" sm="6">
-                <img class="full" src="/static/images/come/path-1.jpg" alt="chemin1"/>
-              </b-col>
-
-              <b-col align-v="bottom" sm="6">
-                <img class="full" src="/static/images/come/path-2.jpg" alt="chemin1"/>
-              </b-col>
-
-              <b-col class="text" align-v="bottom" sm="6">
-
-                <p>
-                  Contournez par <strong>la gauche le bâtiment</strong> pour aller sur la rue <strong>Maxime Gorki</strong>. Ne prenez pas la rue Charles Delesalle !
-                </p>
-
-              </b-col>
-
-
-              <b-col class="text" align-v="bottom" sm="6">
-                <p>
-                  Sur votre droite, vous trouverez <strong>une grille verte</strong> une indication notée "La Cofabrik". Il y a une <strong>sonnette</strong> Singe Savant au niveau de l'accès piéton. Vous pouvez entrer avec votre véhicule, demandez nous juste d'ouvrir le portail par l'interphone.
-                  </p>
-              </b-col>
-              <b-col align-v="bottom" sm="6">
-                <img class="full" src="/static/images/come/path-3.jpg" alt="chemin 3"/>
-              </b-col>
-            </b-row>
-          </b-col>
-        </b-row>
+                
 
 
 
